@@ -11,7 +11,7 @@ setuptools.setup(
     description="Framework based on graphene",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Donnyyyyy/graphene-superstructure",
+    url="https://github.com/Donnyyyyy/graphene-framework",
     packages=setuptools.find_packages(),
     install_requires=[
         "graphene==2.1.7",
