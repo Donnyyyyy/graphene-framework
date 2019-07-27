@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="graphene-framework",
-    version="0.0.2",
+    version="0.0.3",
     author="Dmitrii Donetskii",
     author_email="donetskiydmitriy@gmail.com",
     description="Framework based on graphene",
